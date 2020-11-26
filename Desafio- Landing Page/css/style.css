@@ -1,0 +1,21 @@
+.padding{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.elemento {
+    transition: all;
+}
+
+.padding-top{
+    padding-top: 55px;
+}
+
+.icones{
+    width: 25px;
+    height: 25px;
+}
+
+.body {
+    scroll-behavior: smooth;
+}
